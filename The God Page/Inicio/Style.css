@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.9;
+    mix-blend-mode: overlay;
+}
+
+.text {
+    color: white;
+    padding: 22%;
+}
